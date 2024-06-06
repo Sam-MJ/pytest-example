@@ -1,1 +1,1 @@
-Pretty standard setup for a project, how do I get pytest to run without import errors?
+Personal reference for how to setup pytest with tests in a separate folder to source files.
